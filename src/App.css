@@ -1,7 +1,20 @@
 .App {
   text-align: center;
 }
+.form-control{
+  width: 50%;
+  margin-left: 25%;
+  background-color: rgb(223, 220, 220);
+}
+.btn{
+  width: 50%;
+}
+.form-label{
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +49,4 @@
     transform: rotate(360deg);
   }
 }
+*/
